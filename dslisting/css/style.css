@@ -1,0 +1,6 @@
+/* CSS Document */
+.postbox dl {
+    float: left;
+    min-width: 300px;
+    width: 50%;
+}

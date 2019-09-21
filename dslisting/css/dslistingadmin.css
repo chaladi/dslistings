@@ -1,0 +1,26 @@
+.postbox {
+	background:none;
+	border:none;	
+}
+.postbox dl.ds_map{
+	width:100%;	
+	display:none;
+}
+
+.postbox h3{
+		background:#333;
+		color:#fff;	
+}
+#locationdiv, #wpuf-select-form{
+	display:none;	
+}
+
+
+.clear{
+	clear:both;	
+}
+
+.uk-grid input[type=text],.uk-grid input[type=number],.uk-grid input[type=email],.uk-grid input[type=text], select{
+	border:1px solid #ccc;
+
+}

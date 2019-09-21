@@ -1,0 +1,63 @@
+/* CSS Document */
+#map-canvas {
+        height: 300px;
+        margin: 0px;
+        padding: 0px;
+		width:100%;
+ }
+.postbox {
+	background:none;
+	border:none;	
+}
+.postbox dl.ds_map{
+	width:100%;	
+}
+
+.postbox h3{
+		background:#333;
+		color:#fff;	
+}
+#locationdiv, #wpuf-select-form{
+	display:none;	
+}
+
+
+.clear{
+	clear:both;	
+}
+/*--------------Freelisting table styles--------------------------*/
+#listing-Locationdiv h3, #listing-categoriesdiv h3,#listing-productsdiv h3{
+	background:#333;
+	color:#fff;
+	
+}
+.ds_freelistingtable dl{
+	clear:both;	
+}
+.ds_freelistingtable dt{
+	float:left;
+	width:12%;	
+	text-align:center;
+	font-weight:normal;
+	font-size:14px;
+	padding:10px 0;
+	overflow:hidden;
+}
+.ds_free_caption dt {
+    background: none repeat scroll 0 0 #A3B745;
+    color: #FFFFFF;
+}
+.dsfreelisting dt{
+	min-width:10%;
+	text-align:center;
+	overflow:hidden;
+}
+.ds_fstatus span{
+	padding:0 3px;
+}
+.message {
+    display: none;
+    margin: 0 0 13px;
+    padding: 10px;
+    border: solid 1px #bd8;
+}
